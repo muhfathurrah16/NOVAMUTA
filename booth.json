@@ -1,0 +1,17 @@
+{
+    "booth_1":
+    {
+        "popup_h2": "BOOTH 1",
+        "p_content": "Booth-1 description here, to inform all the audiences about a booth-1."
+    },
+    "booth_2":
+    {
+        "popup_h2": "BOOTH 2",
+        "p_content": "Booth-2 description here, to inform all the audiences about a booth-2."
+    },
+    "booth_3":
+    {
+        "popup_h2": "BOOTH 3",
+        "p_content": "Booth-3 description here, to inform all the audiences about a booth-3."
+    }
+}
